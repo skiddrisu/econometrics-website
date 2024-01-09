@@ -3,12 +3,12 @@ project:
   output-dir: docs
 
 website:
-  title: "econometrics website"
+  title: "Sumaila Kwame Iddrisu"
   navbar:
     left:
       - href: index.qmd
         text: Home
-      - about.qmd
+   
 
 format:
   html:

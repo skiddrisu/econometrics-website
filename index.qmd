@@ -1,11 +1,7 @@
 ---
-title: "econometrics website"
+title: "Sumaila Kwame Iddrisu"
 ---
 
-This is a Quarto website.
+Hello,
 
-To learn more about Quarto websites visit <https://quarto.org/docs/websites>.
-
-```{r}
-1 + 1
-```
+My name is Sumaila Kwame Iddrisu. I am a graduate student at Memorial University.
