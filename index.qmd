@@ -1,7 +1,36 @@
 ---
-title: "Sumaila Kwame Iddrisu"
+title: ""
+format: 
+  html: 
+    include-in-header: GA_Script.html
 ---
 
-Hello,
 
-My name is Sumaila Kwame Iddrisu. I am a graduate student at Memorial University.
+ 
+
+::: columns
+::: {.column width="40%"}
+  ![](Kwame Iddrisu visa passport pic.jpg)
+:::
+
+::: {.column width="60%"}
+### Sumaila Kwame Iddrisu, MA Economics 
+
+**Graduate Student**\
+Department of Economics\
+Memorial University of Newfoundland
+
+**MPhil Economics**\
+Department of Economics\
+University of Ghana
+:::
+:::
+
+## About
+I am a dedicated graduate student pursuing a Master of Arts in Economics at Memorial University. I also hold a Master of Philosophy degree in Economics from the University of Ghana. My academic journey has been shaped by a keen interest in the intersection of economics, environment, and health. I am passionate about delving into research areas that explore the intricate connections between economic factors, environmental sustainability, and public health. Through my academic pursuits, I aspire to contribute valuable insights to the fields of environment and health economics, striving to address pertinent issues and foster positive change in these interconnected domains.
+
+ 
+
+
+
+
