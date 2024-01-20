@@ -1,12 +1,83 @@
 ---
-title: "CV"
+title: "Curriculum Vitae"
 ---
 
-# Contact Information
+# Highlights of Qualifications
+
+-   Master of Philosophy degree in Economics
+-   Presentation and communication skills acquired through participation in various workshops, conferences
+-   Interpersonal, organizational and leadership skills honed as membership chair of Accra Zenith Lions club
+-   Research, analytical and problem solving skills gained through practice as research assistant to research projects and publishing articles in research journals
+-   Four years experience in investment banking and pension fund management
+-   Proficiency in use of Stata, Eviews, Microsoft Excel, Microsoft Word, Access, PowerPoint acquired through coursework
 
 # Education
 
-- MPhil Economics, University of Ghana, 2017
-- BA Economics, University of Ghana, 2014
+-   MA Economics, Memorial University of Newfoundland, 2023 to Present
+-   MPhil Economics, University of Ghana, 2017
+-   BA Economics, University of Ghana, 2014
 
-# Research
+# Work Experience
+## Research and Pensions Analyst (April 2018 to August 2022)
+### Delta Capital Limited
+
+-   Publish weekly and monthly financial and economic market report
+-   Write and publish articles on important reforms in the economic and financial sector
+-   Oversee day to day pension management of Pension Schemes
+-   Research market and industry trends and patterns
+-   Organize and store data for future research projects
+-   Prepare and reconcile monthly Portfolio Valuation Reports with other service providers
+
+## Research Assistant (Jan 2018 to March 2018)
+### United Nations University Institute for Natural Resources in Africa
+#### Project Title: The Potential of Solar Energy in Ghana: Stakeholder Uptake and Business Case as Alternative Energy Source
+
+-   Analyze data using statistical software and techniques
+-   Summarize survey data using tables, graphs, and fact sheets
+-   Assist in coordinating the work of survey interviewers and data collectors
+-   Assist in planning, designing and determining appropriate survey method
+
+## Tutor (June 2017 to March 2018)
+### Institute of Distance Education, University of Ghana
+
+-   Teach undergraduate and diploma students courses including Labour Economics, Applied Mathematics of Economics and Applied Statistics for Economics
+
+## Loan Officer (Jan 2017 to May 2017)
+### Asa Savings and Loans Limited
+
+-   Evaluating loan applications and documentation of customers by confirming credit worthiness
+-   Improving loan applications and documentation by informing clients of additional requirements
+-   Responsible for verifying clients’ business and houses
+-   Responsible for approving loans by issuing cheques or forwarding loan application to branch manager /Area Manager for approval
+
+## Teaching and Research Assistant (Sept 2014 to August 2015)
+### Department of Economics, University of Ghana
+
+-   Provide tutorials for students
+-   Assist Professors in research and script marking
+
+# Conferences Presentations
+
+-   Climate, Landuse, Mining and Sanitation for Sustainable Development, February 18, 2018, Centre for Climate Change and Sustainability Studies (C3SS), University of Ghana
+-   Inception workshop on advocacy on energy efficiency improvement based on business driven by women entrepreneurs organized in Ghana, June 9, 2015
+-   Technical Meeting for Stakeholders to validate the draft low carbon development strategies organized by the Ministry of Environment, Science, Technology and Innovation in Ghana
+
+# Publications
+
+-   Twerefou, D. K., Iddrisu, K. S., & Twum, E. A. (2018). Energy consumption and economic growth: evidence from the West African Sub region. West African Journal of Applied Ecology, 26, 217-233
+
+# Volunteer Experience
+## Membership chair, Accra Zenith Lions Club (December 2021 to February 2022)
+
+-   Develops and leads a membership committee to create and implement membership goals and action plans
+-   Motivates club members to invite new members and inspires positive club membership experiences
+
+## Polling Assistant, Electoral Commission of Ghana (December, 2016)
+### Presidential and Parliamentary elections, 2016
+-   Check the accuracy of the voter’s particulars on the voters card and ensure that they correspond with that on the voter’s register
+-   Mark the register indicating that the voter has already been issued a ballot paper
+-   Issue the ballot paper in case of multiple voting
+
+# References
+
+-   Available upon request
