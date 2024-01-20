@@ -1,3 +1,14 @@
 ---
 title: "Contact Information"
+editor: visual
 ---
+
+{{< fa envelope >}} skiddrisu\@mun.ca
+
+{{< fa phone >}} (709) 727-5800
+
+{{< fa paper-plane >}} Department of Economics\
+     Memorial University of Newfoundland\
+     Arts and Administration Building \
+     St John's, NL, Canada\
+     A1C 5S7
